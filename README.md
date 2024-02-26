@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sreecharan
 - 👀 I’m interested in ...Web devoloper,UI/UX designer.
-- 📫 How to reach me ... mail- sreecharan2808@gmail.com
+- 📫 How to reach me ...sreecharan2808@gmail.com
 - ⚡ Fun fact: ... Proactive
 
 <!---
