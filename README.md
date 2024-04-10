@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sreecharan
-- 👀 I’m interested in ...Web devoloper,UI/UX designer.
+- 👀 I’m interested in ...Web devoloper.
 - 📫 How to reach me ...sreecharan2808@gmail.com
 - ⚡ Fun fact: ... Proactive
 
